@@ -8,7 +8,7 @@ menggunakan statement if.<p>
 
 Berikut adalah hasil output nya menggunakan statement if:<p>
 
-C:\Users\sdnke\PycharmProjects\pythonProject\venv\Scripts\python.exe D:/latihan1kuu/latihan1ku/2bilangan.py
+    C:\Users\sdnke\PycharmProjects\pythonProject\venv\Scripts\python.exe D:/latihan1kuu/latihan1ku/2bilangan.py
     Masukkan nilai a: 10
     Masukkan nilai b: 12
     B yang terbesar
@@ -21,7 +21,7 @@ hasilnya secara berurutan mulai dari data terkecil.<p>
 
 Berikut untuk hasil output dari program nya:<p>
 
-C:\Users\sdnke\PycharmProjects\pythonProject\venv\Scripts\python.exe D:/latihan1kuu/latihan1ku/pengurutan.py
+    C:\Users\sdnke\PycharmProjects\pythonProject\venv\Scripts\python.exe D:/latihan1kuu/latihan1ku/pengurutan.py
     program untuk mengurutkan bilangan dari yang terkecil ke yang terbesar
     masukkan 3 bilangan yang diinginkan!
     bilangan1 = 10
