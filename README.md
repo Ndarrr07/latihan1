@@ -63,16 +63,17 @@ Berikut adalah program nya:<p>
 
 ![gambar 6](screenshot/ss6.png)
 
- import random
- print(40 * "=")
- print("Bilangan random yang lebih kecil dari 0,5")
- rint(40 * "=")
- jum = int(input("Masukan nilai n : "))
- i = 0
- for i in range(jum):
- i += 1
- angkaDec = random.uniform(0, 0.5)
- print("Data ke", i, " = ", angkaDec)
+     import random
+    
+     print(40 * "=")
+     print("Bilangan random yang lebih kecil dari 0,5")
+     print(40 * "=")
+     jum = int(input("Masukan nilai n : "))
+     i = 0
+     for i in range(jum):
+     i += 1
+     angkaDec = random.uniform(0, 0.5)
+     print("Data ke", i, " = ", angkaDec)
 
 syntax di atas untuk mencari bilangan di bawah 0,5<p>
 
@@ -81,7 +82,7 @@ syntax di atas untuk mencari bilangan di bawah 0,5<p>
 Sementara untuk menentukan jumlah inputan yang diinginkan maka perlu memasukan<p>
 
  jum = int(input("Masukan nilai n : "))
- 
+
 Dan untuk menampilkan urutan sesua jumlah inputan dengan hasil di bawah 0,5 dengan menggunakan syntax berikut<p>
 
     angkaDec = random.uniform(0, 0.5)
