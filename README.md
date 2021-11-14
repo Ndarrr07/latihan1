@@ -58,9 +58,12 @@ Berikut untuk output dari program tersebut:
 • anda bisa menggunakan kombinasi while dan for untuk 
 menyelesaikannya<p>
 ![gambar 5](screenshot/ss5.png) 
+
 Berikut adalah program nya:<p>
+
 ![gambar 6](screenshot/ss6.png)
-import random
+
+ import random
  print(40 * "=")
  print("Bilangan random yang lebih kecil dari 0,5")
  rint(40 * "=")
@@ -70,11 +73,17 @@ import random
  i += 1
  angkaDec = random.uniform(0, 0.5)
  print("Data ke", i, " = ", angkaDec)
+
 syntax di atas untuk mencari bilangan di bawah 0,5<p>
+
  import random
+
 Sementara untuk menentukan jumlah inputan yang diinginkan maka perlu memasukan<p>
+
  jum = int(input("Masukan nilai n : "))
+ 
 Dan untuk menampilkan urutan sesua jumlah inputan dengan hasil di bawah 0,5 dengan menggunakan syntax berikut<p>
+
     angkaDec = random.uniform(0, 0.5)
     print("Data ke", i, " = ", angkaDec)
 
