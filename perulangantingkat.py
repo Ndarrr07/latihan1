@@ -5,4 +5,4 @@ for i in range(10):
             print(n, end="  ")
         else:
             print(n, end=" ")
-    print() 
+    print()
