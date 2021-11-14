@@ -30,3 +30,26 @@ Berikut untuk hasil output dari program nya:<p>
     3 6 10
 
     ingin coba lagi? (ya/tidak)
+
+3. Buat program dengan perulangan bertingkat (nested) for yang 
+menghasilkan output sebagai berikut:<p>
+![gambar 3](screenshot/ss3.png)
+
+Berikut Program nya:<p>
+![gambar 4](screenshot/ss4.png)
+Berikut untuk output dari program tersebut:
+
+    C:\Users\sdnke\PycharmProjects\pythonProject\venv\Scripts\python.exe D:/latihan1kuu/latihan1ku/perulangantingkat.py
+    0  1  2  3  4  5  6  7  8  9  
+    1  2  3  4  5  6  7  8  9  10 
+    2  3  4  5  6  7  8  9  10 11 
+    3  4  5  6  7  8  9  10 11 12 
+    4  5  6  7  8  9  10 11 12 13 
+    5  6  7  8  9  10 11 12 13 14 
+    6  7  8  9  10 11 12 13 14 15 
+    7  8  9  10 11 12 13 14 15 16 
+    8  9  10 11 12 13 14 15 16 17 
+    9  10 11 12 13 14 15 16 17 18 
+    Process finished with exit code 0
+
+    
