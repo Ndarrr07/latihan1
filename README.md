@@ -77,11 +77,11 @@ Berikut adalah program nya:<p>
 
 syntax di atas untuk mencari bilangan di bawah 0,5<p>
 
- import random
+     import random
 
 Sementara untuk menentukan jumlah inputan yang diinginkan maka perlu memasukan<p>
 
- jum = int(input("Masukan nilai n : "))
+     jum = int(input("Masukan nilai n : "))
 
 Dan untuk menampilkan urutan sesua jumlah inputan dengan hasil di bawah 0,5 dengan menggunakan syntax berikut<p>
 
