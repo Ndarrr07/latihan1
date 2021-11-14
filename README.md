@@ -52,4 +52,48 @@ Berikut untuk output dari program tersebut:
     9  10 11 12 13 14 15 16 17 18 
     Process finished with exit code 0
 
-    
+4. latihan<p>
+• Tampilkan n bilangan acak yang lebih kecil dari 0.5.<p> 
+• nilai n diisi pada saat runtime<p>
+• anda bisa menggunakan kombinasi while dan for untuk 
+menyelesaikannya<p>
+![gambar 5](screenshot/ss5.png) 
+Berikut adalah program nya:<p>
+![gambar 6](screenshot/ss6.png)
+import random
+ print(40 * "=")
+ print("Bilangan random yang lebih kecil dari 0,5")
+ rint(40 * "=")
+ jum = int(input("Masukan nilai n : "))
+ i = 0
+ for i in range(jum):
+ i += 1
+ angkaDec = random.uniform(0, 0.5)
+ print("Data ke", i, " = ", angkaDec)
+syntax di atas untuk mencari bilangan di bawah 0,5<p>
+ import random
+Sementara untuk menentukan jumlah inputan yang diinginkan maka perlu memasukan<p>
+ jum = int(input("Masukan nilai n : "))
+Dan untuk menampilkan urutan sesua jumlah inputan dengan hasil di bawah 0,5 dengan menggunakan syntax berikut<p>
+    angkaDec = random.uniform(0, 0.5)
+    print("Data ke", i, " = ", angkaDec)
+
+Jika sudah selesai berikut hasil output dari program nya:<p>
+
+
+    C:\Users\sdnke\PycharmProjects\pythonProject\venv\Scripts\python.exe D:/latihan1kuu/latihan1ku/bilanganacak.py
+    ========================================
+    Bilangan random yang lebih kecil dari 0,5
+    ========================================
+    Masukan nilai n : 5
+    Data ke 1  =  0.15939298094948484
+    Data ke 2  =  0.23287293665910924
+    Data ke 3  =  0.09777750216484471
+    Data ke 4  =  0.25039054241480674
+    Data ke 5  =  0.40529506409831234
+    Process finished with exit code 0
+
+peringatan saja untuk screenshot dan hasil output di situ untuk bilangan penulisan salah,
+jadi bilangan yang seharusnya benar adalah hasil output nya mialkan kalian di output memasukan angka 5 jadi angka itu yang menjadi tugas dari materi di atas,untuk bilangan itu sesuka kalian saja,
+tergantung dari kebutuhan kalian masing - masing,
+dan satu lagi untuk lebih lengkap soal script program nya kalian bisa klik project nya di situ akan muncul script program nya terimakasih.
